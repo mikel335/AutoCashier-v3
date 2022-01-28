@@ -1,0 +1,20 @@
+{
+  "files": {
+    "AutoCashierData.xlsx": [
+      {
+        "id": "ce3d6f05-19ef-47e4-be9c-69008ef5033c",
+        "line": 1,
+        "version": 37,
+        "index": 0
+      }
+    ],
+    "CalculationManager.py": [
+      {
+        "id": "f394e73f-1487-4f3a-8c0c-0f2b3a594050",
+        "line": 5,
+        "version": 585,
+        "index": 74
+      }
+    ]
+  }
+}
