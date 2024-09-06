@@ -1,2 +1,2 @@
 # AutoCashier-v3
-AutoCashier but even better
+AutoCashier but even better!
